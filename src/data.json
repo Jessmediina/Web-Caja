@@ -1,0 +1,53 @@
+{
+  "configuracion": {
+    "ayuntamiento": "H. XXIV Ayuntamiento de Tecate, B.C.",
+    "subdireccion": "Subdirección de Ingresos",
+    "fechaEmision": "Lunes, 23 de Marzo de 2026",
+    "folio": "G-1",
+    "cajero": "Administrador del Sistema",
+    "unidadOperativa": "U. Op. Recaudación de Rentas",
+    "grupoCaja": "Recaudación de Rentas"
+  },
+  "conceptos": [
+    {
+      "codigo": "01-01-01",
+      "descripcion": "Ejemplo de cargo administrativo",
+      "unitario": 150.00,
+      "notas": "Sin observaciones"
+    },
+    {
+      "codigo": "02-15-04",
+      "descripcion": "Derecho por expedición de copias",
+      "unitario": 45.50,
+      "notas": "Costo por hoja"
+    },
+    {
+      "codigo": "05-08-12",
+      "descripcion": "Multa de tránsito municipal",
+      "unitario": 850.00,
+      "notas": "Sujeto a descuento"
+    },
+    {
+      "codigo": "10-22-01",
+      "descripcion": "Uso de suelo comercial",
+      "unitario": 1200.00,
+      "notas": "Anual"
+    }
+  ],
+  "reciboActual": {
+    "contribuyente": "",
+    "rfc": "",
+    "domicilio": "",
+    "colonia": "",
+    "items": [
+      {
+        "codigo": "01-01-01",
+        "descripcion": "Ejemplo de cargo administrativo",
+        "cantidad": 1,
+        "unitario": 150.00,
+        "total": 150.00,
+        "notas": "Sin observaciones"
+      }
+    ]
+  }
+}
